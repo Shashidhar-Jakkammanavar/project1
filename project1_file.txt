@@ -1,0 +1,18 @@
+Git & Github -
+
+git - git is a technology
+github is a platform which uses the git technology to 
+1.code management
+2.version control
+3.distribution of work
+
+*Popular git platfroms are 
+1.github
+2.gitlab
+
+*When we save file in git we will have the below additional features comparing to the file saved in local system
+1.author
+2.time
+3.version
+4.hash ID
+
